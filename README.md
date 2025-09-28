@@ -184,3 +184,4 @@ export COLUMNS LINES
 ## Colorscheme
 
 - [catppuccin/termux](https://github.com/catppuccin/termux)
+
